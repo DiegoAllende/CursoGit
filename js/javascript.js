@@ -10,6 +10,6 @@ function saludo3(){
     console.log("hola a todos 3");
 }
 
-function saludo4(){
+function saludo44(){
     console.log("hola a todos 4");
 }
